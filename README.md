@@ -9,10 +9,6 @@
 
 - 🔭 I’m currently working on **Edtech Platform(Skill Matrix)**
 
-- 🌱 I’m currently learning **MEAN and MERN Stack**
-
-- 👯 I’m looking to collaborate on **The Virtual Voice Assistant "Sora"**
-
 - 🤝 I’m looking for help with **The Virtual Voice Assistant "Sora"**
 
 - 💬 Ask me about **Flutter Front-end, Html, Css, Bootstrap**

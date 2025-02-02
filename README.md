@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Edtech Platform(Skill Matrix)**
-
-- 🤝 I’m looking for help with **The Virtual Voice Assistant "Sora"**
-
 - 💬 Ask me about **Flutter Front-end, Html, Css, Bootstrap**
 
 - 📫 How to reach me **namanjainalwar12@gmail.com**
